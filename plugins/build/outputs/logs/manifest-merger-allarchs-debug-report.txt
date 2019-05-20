@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Delelopment\Android\AR\Wikitude\WikitudeSDK_Android_8-4-0_2019-04-09_07-33-07\Examples\SDKExamples\plugins\src\main\AndroidManifest.xml:2:1-50
+INJECTED from D:\Delelopment\Android\AR\Wikitude\WikitudeSDK_Android_8-4-0_2019-04-09_07-33-07\Examples\SDKExamples\plugins\src\main\AndroidManifest.xml:2:1-50
+INJECTED from D:\Delelopment\Android\AR\Wikitude\WikitudeSDK_Android_8-4-0_2019-04-09_07-33-07\Examples\SDKExamples\plugins\src\main\AndroidManifest.xml:2:1-50
+	package
+		ADDED from D:\Delelopment\Android\AR\Wikitude\WikitudeSDK_Android_8-4-0_2019-04-09_07-33-07\Examples\SDKExamples\plugins\src\main\AndroidManifest.xml:2:11-47
+		INJECTED from D:\Delelopment\Android\AR\Wikitude\WikitudeSDK_Android_8-4-0_2019-04-09_07-33-07\Examples\SDKExamples\plugins\src\main\AndroidManifest.xml
+		INJECTED from D:\Delelopment\Android\AR\Wikitude\WikitudeSDK_Android_8-4-0_2019-04-09_07-33-07\Examples\SDKExamples\plugins\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Delelopment\Android\AR\Wikitude\WikitudeSDK_Android_8-4-0_2019-04-09_07-33-07\Examples\SDKExamples\plugins\src\main\AndroidManifest.xml:2:1-50
+uses-sdk
+INJECTED from D:\Delelopment\Android\AR\Wikitude\WikitudeSDK_Android_8-4-0_2019-04-09_07-33-07\Examples\SDKExamples\plugins\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Delelopment\Android\AR\Wikitude\WikitudeSDK_Android_8-4-0_2019-04-09_07-33-07\Examples\SDKExamples\plugins\src\main\AndroidManifest.xml
+INJECTED from D:\Delelopment\Android\AR\Wikitude\WikitudeSDK_Android_8-4-0_2019-04-09_07-33-07\Examples\SDKExamples\plugins\src\main\AndroidManifest.xml
+INJECTED from D:\Delelopment\Android\AR\Wikitude\WikitudeSDK_Android_8-4-0_2019-04-09_07-33-07\Examples\SDKExamples\plugins\src\main\AndroidManifest.xml
+INJECTED from D:\Delelopment\Android\AR\Wikitude\WikitudeSDK_Android_8-4-0_2019-04-09_07-33-07\Examples\SDKExamples\plugins\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Delelopment\Android\AR\Wikitude\WikitudeSDK_Android_8-4-0_2019-04-09_07-33-07\Examples\SDKExamples\plugins\src\main\AndroidManifest.xml
+		ADDED from D:\Delelopment\Android\AR\Wikitude\WikitudeSDK_Android_8-4-0_2019-04-09_07-33-07\Examples\SDKExamples\plugins\src\main\AndroidManifest.xml
+		INJECTED from D:\Delelopment\Android\AR\Wikitude\WikitudeSDK_Android_8-4-0_2019-04-09_07-33-07\Examples\SDKExamples\plugins\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Delelopment\Android\AR\Wikitude\WikitudeSDK_Android_8-4-0_2019-04-09_07-33-07\Examples\SDKExamples\plugins\src\main\AndroidManifest.xml
+		ADDED from D:\Delelopment\Android\AR\Wikitude\WikitudeSDK_Android_8-4-0_2019-04-09_07-33-07\Examples\SDKExamples\plugins\src\main\AndroidManifest.xml
+		INJECTED from D:\Delelopment\Android\AR\Wikitude\WikitudeSDK_Android_8-4-0_2019-04-09_07-33-07\Examples\SDKExamples\plugins\src\main\AndroidManifest.xml
